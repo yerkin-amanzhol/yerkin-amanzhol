@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 📫 How to reach me **amanzhol.y.b@gmail.com**
+- 📫 How to reach me **a.yerkin@proton.me**
 
 - 📄 Know about my experiences [https://yerkin-amanzhol.github.io/](https://yerkin-amanzhol.github.io/)
 
